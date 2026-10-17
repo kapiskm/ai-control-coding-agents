@@ -1,4 +1,4 @@
-# AI Control for Coding Agents: A Field Report from a Live Payments Platform
+# AI Control for Coding Agents: A Field Report from a Multi-Tenant Payments Platform
 
 By Avdhesh Bansal. October 2026.
 
